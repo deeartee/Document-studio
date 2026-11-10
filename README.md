@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-##Принцип работы
+## Принцип работы
 
 Пользователь загружает фотографию документа.
 
